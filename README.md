@@ -9,4 +9,8 @@
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/ID.png)
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Intensity.png)
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/VariableAge.png)
+![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/VariableAge.png)
+![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/VariableAge.png)
+![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/VariableAge.png)
+![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/VariableAge.png)
 
