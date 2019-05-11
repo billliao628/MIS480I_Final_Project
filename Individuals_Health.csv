@@ -1,0 +1,51 @@
+﻿ID,Gender,Age,hypertension,HeartDisease,EverMarried,WorkType,ResidenceType,AvgGlucoseLevel,SmokingStatus
+PT_1,M,24,0,0,No,Private,Urban,83.84,formerly smoked
+PT_2,F,22,0,1,No,Self-employed,Rural,179.5,formerly smoked
+PT_3,M,21,0,0,No,College Student,Rural,95.16,never smoked
+PT_4,F,29,0,0,Yes,Private,Urban,94.76,never smoked
+PT_5,M,30,0,0,Yes,Govt_job,Rural,83.57,never smoked
+PT_6,M,27,1,0,Yes,Private,Urban,219.98,never smoked
+PT_7,M,28,0,0,Yes,Self-employed,Rural,74.03,smokes
+PT_8,F,22,0,0,No,Govt_job,Urban,120.8,never smoked
+PT_9,M,26,0,0,Yes,Self-employed,Rural,78.71,never smoked
+PT_10,F,24,0,0,Yes,Self-employed,Urban,77.2,smokes
+PT_11,M,25,0,0,No,Private,Rural,78.16,never smoked
+PT_12,F,21,0,0,No,College Student,Urban,107.23,formerly smoked
+PT_13,M,20,0,0,No,College Student,Rural,91.6,never smoked
+PT_14,F,30,0,0,Yes,Private,Urban,83.05,never smoked
+PT_15,M,21,0,0,No,Govt_job,Urban,236.6,never smoked
+PT_16,M,25,0,0,No,Self-employed,Urban,109.49,never smoked
+PT_17,M,26,0,0,Yes,Self-employed,Rural,109.66,never smoked
+PT_18,F,24,0,0,No,Private,Rural,88.51,smokes
+PT_19,M,23,0,0,No,College Student,Rural,101.36,never smoked
+PT_20,M,25,0,0,Yes,Govt_job,Urban,165.44,formerly smoked
+PT_21,F,26,1,0,Yes,Self-employed,Rural,101.06,formerly smoked
+PT_22,F,27,0,0,Yes,Private,Urban,81.54,smokes
+PT_23,F,29,0,0,Yes,Private,Rural,150.06,never smoked
+PT_24,F,27,0,0,No,Private,Urban,87.79,formerly smoked
+PT_25,F,22,0,0,No,Private,Rural,205.8,formerly smoked
+PT_26,M,23,1,1,No,Private,Rural,93.79,never smoked
+PT_27,F,25,0,0,No,Govt_job,Rural,60.6,smokes
+PT_28,M,21,0,0,No,Private,Urban,94.8,never smoked
+PT_29,M,20,0,0,No,Private,Urban,75.12,never smoked
+PT_30,F,30,0,0,Yes,Private,Urban,116.78,smokes
+PT_31,F,30,1,0,Yes,Private,Rural,150.14,never smoked
+PT_32,M,26,0,1,No,Private,Rural,212.68,never smoked
+PT_33,M,29,0,0,Yes,Private,Rural,128.82,formerly smoked
+PT_34,F,26,0,0,No,Private,Rural,147.95,formerly smoked
+PT_35,M,24,0,0,No,Private,Urban,78.88,never smoked
+PT_36,F,22,0,0,Yes,Self-employed,Rural,84.02,smokes
+PT_37,M,21,0,0,No,Private,Rural,116.33,never smoked
+PT_38,M,26,0,0,Yes,Private,Rural,97.92,never smoked
+PT_39,M,25,0,1,Yes,Self-employed,Rural,132.56,smokes
+PT_40,F,25,0,0,No,Private,Rural,105.36,never smoked
+PT_41,M,24,0,0,Yes,Private,Urban,116.69,never smoked
+PT_42,F,29,0,0,No,Self-employed,Rural,80.63,smokes
+PT_43,F,27,0,0,Yes,Private,Rural,65.85,never smoked
+PT_44,M,28,0,0,Yes,Private,Urban,192.53,formerly smoked
+PT_45,M,26,0,0,No,Private,Urban,58.17,smokes
+PT_46,F,28,1,0,No,Private,Rural,93.61,never smoked
+PT_47,M,24,0,0,Yes,Private,Urban,62.69,formerly smoked
+PT_48,F,22,0,0,No,Private,Urban,58.87,smokes
+PT_49,M,25,0,0,Yes,Private,Rural,133.7,never smoked
+PT_50,M,28,0,0,Yes,Govt_job,Urban,173.02,formerly smoked

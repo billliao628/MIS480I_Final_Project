@@ -1,0 +1,51 @@
+Gender,Age,Height,Weight,Frequency,Intensity,Protein,MuscleChange,Diet,MuscleDecision,hypertension,HeartDisease,EverMarried,WorkType,ResidenceType,AvgGlucoseLevel,SmokingStatus
+F,30,1,0,3,Low,Beef,0.4,All Diet is TDEE+500,0,0,0,Yes,Private,Urban,1,never smoked
+F,22,0,1,6,Medium,Beef,0.4,All Diet is TDEE+500,0,0,0,No,Private,Rural,3,formerly smoked
+M,24,1,3,7,Low,Beef,0.5,All Diet is TDEE+500,1,0,0,Yes,Private,Urban,0,formerly smoked
+M,21,3,3,5,Medium,Beef,0.5,All Diet is TDEE+500,1,0,0,No,Private,Urban,1,never smoked
+M,25,2,3,6,Medium,Beef,0.6,All Diet is TDEE+500,1,0,0,No,Private,Rural,0,never smoked
+F,22,0,0,4,Low,Beef,0.7,All Diet is TDEE+500,1,0,0,Yes,Self-employed,Rural,1,smokes
+F,26,1,0,6,Low,Beef,0.8,All Diet is TDEE+500,1,1,0,Yes,Self-employed,Rural,2,formerly smoked
+M,27,2,2,6,Low,Beef,0.8,All Diet is TDEE+500,1,1,0,Yes,Private,Urban,3,never smoked
+F,22,0,0,5,High,Beef,0.8,All Diet is TDEE+500,1,0,0,No,Private,Urban,0,smokes
+M,26,1,1,7,Medium,Beef,0.8,All Diet is TDEE+500,1,0,1,No,Private,Rural,3,never smoked
+M,26,1,1,5,Medium,Beef,0.9,All Diet is TDEE+500,1,0,0,Yes,Private,Rural,2,never smoked
+M,24,3,3,3,High,Beef,0.9,All Diet is TDEE+500,1,0,0,No,Private,Urban,1,formerly smoked
+M,25,3,1,4,Medium,Beef,1.0,All Diet is TDEE+500,1,0,0,No,Self-employed,Urban,2,never smoked
+M,21,2,2,5,Medium,Beef,1.0,All Diet is TDEE+500,1,0,0,No,Govt_job,Urban,3,never smoked
+M,20,2,2,6,Medium,Beef,1.1,All Diet is TDEE+500,1,0,0,No,Private,Urban,0,never smoked
+M,30,2,2,4,High,Beef,1.1,All Diet is TDEE+500,1,0,0,Yes,Govt_job,Rural,1,never smoked
+F,29,0,0,4,High,Beef,1.2,All Diet is TDEE+500,1,0,0,No,Self-employed,Rural,0,smokes
+M,24,2,3,6,Medium,Beef,1.2,All Diet is TDEE+500,1,0,0,Yes,Private,Urban,2,never smoked
+F,22,0,1,4,High,Chicken,0.3,All Diet is TDEE+500,0,0,0,No,Govt_job,Urban,2,never smoked
+F,27,0,1,7,High,Chicken,0.3,All Diet is TDEE+500,0,0,0,Yes,Private,Rural,0,never smoked
+F,30,1,1,4,Low,Chicken,0.3,All Diet is TDEE+500,0,1,0,Yes,Private,Rural,3,never smoked
+F,29,1,0,7,Low,Chicken,0.5,All Diet is TDEE+500,1,0,0,Yes,Private,Urban,1,never smoked
+M,20,2,3,4,High,Chicken,0.6,All Diet is TDEE+500,1,0,0,No,College Student,Rural,1,never smoked
+F,27,2,0,4,Low,Chicken,0.6,All Diet is TDEE+500,1,0,0,No,Private,Urban,1,formerly smoked
+F,26,1,1,7,Medium,Chicken,0.6,All Diet is TDEE+500,1,0,0,No,Private,Rural,3,formerly smoked
+M,26,3,2,5,High,Chicken,0.6,All Diet is TDEE+500,1,0,0,Yes,Self-employed,Rural,2,never smoked
+M,26,2,3,6,Low,Chicken,0.6,All Diet is TDEE+500,1,0,0,No,Private,Urban,0,smokes
+F,25,0,0,7,High,Chicken,0.7,All Diet is TDEE+500,1,0,0,No,Govt_job,Rural,0,smokes
+M,26,3,3,4,Low,Chicken,0.8,All Diet is TDEE+500,1,0,0,Yes,Self-employed,Rural,0,never smoked
+F,24,0,1,6,Low,Chicken,0.8,All Diet is TDEE+500,1,0,0,No,Private,Rural,1,smokes
+M,23,3,3,4,Low,Chicken,0.9,All Diet is TDEE+500,1,1,1,No,Private,Rural,1,never smoked
+M,28,1,3,5,Medium,Chicken,1.0,All Diet is TDEE+500,1,0,0,Yes,Self-employed,Rural,0,smokes
+M,24,2,2,6,High,Chicken,1.1,All Diet is TDEE+500,1,0,0,No,Private,Urban,0,never smoked
+M,25,2,2,3,Medium,Chicken,1.2,All Diet is TDEE+500,1,0,0,Yes,Govt_job,Urban,3,formerly smoked
+M,28,1,2,4,Medium,Chicken,1.2,All Diet is TDEE+500,1,0,0,Yes,Govt_job,Urban,3,formerly smoked
+M,25,3,3,6,Medium,Chicken,1.2,All Diet is TDEE+500,1,0,1,Yes,Self-employed,Rural,3,smokes
+F,22,1,0,4,Medium,Pork,0.1,All Diet is TDEE+500,0,0,1,No,Self-employed,Rural,3,formerly smoked
+M,23,3,2,4,High,Pork,0.3,All Diet is TDEE+500,0,0,0,No,College Student,Rural,2,never smoked
+M,28,2,3,5,Low,Pork,0.4,All Diet is TDEE+500,0,0,0,Yes,Private,Urban,3,formerly smoked
+F,30,0,0,4,Medium,Pork,0.5,All Diet is TDEE+500,1,0,0,Yes,Private,Urban,2,smokes
+F,21,2,1,7,Low,Pork,0.5,All Diet is TDEE+500,1,0,0,No,College Student,Urban,2,formerly smoked
+M,25,3,2,6,Medium,Pork,0.6,All Diet is TDEE+500,1,0,0,Yes,Private,Rural,3,never smoked
+F,29,1,1,3,Medium,Pork,0.7,All Diet is TDEE+500,1,0,0,Yes,Private,Rural,3,never smoked
+M,21,3,2,7,High,Pork,0.7,All Diet is TDEE+500,1,0,0,No,Private,Rural,2,never smoked
+M,21,2,2,6,Medium,Pork,0.8,All Diet is TDEE+500,1,0,0,No,College Student,Rural,1,never smoked
+F,25,0,0,3,Low,Pork,0.8,All Diet is TDEE+500,1,0,0,No,Private,Rural,2,never smoked
+F,27,0,0,5,Medium,Pork,0.8,All Diet is TDEE+500,1,0,0,Yes,Private,Urban,0,smokes
+M,29,3,3,5,High,Pork,0.9,All Diet is TDEE+500,1,0,0,Yes,Private,Rural,2,formerly smoked
+F,28,0,1,4,Medium,Pork,0.9,All Diet is TDEE+500,1,1,0,No,Private,Rural,1,never smoked
+F,24,0,0,3,High,Pork,1.2,All Diet is TDEE+500,1,0,0,Yes,Self-employed,Urban,0,smokes
