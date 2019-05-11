@@ -20,5 +20,5 @@
 # Exploratory Data Analysis(EDA)
 ------------------------------------------------------------------------------------------------------
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Scatter_Plot.png)
-![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Bar_Chart.png)
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Correlation_Matrix.png)
+![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Bar_Chart.png)
