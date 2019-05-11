@@ -1,5 +1,6 @@
 # MIS480I_Final_Project
 ------------------------------------------------
+
 # Data Profiling Report with pandas_profiling
 ------------------------------------------------
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/OverView.png)
@@ -15,6 +16,7 @@
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Weight.png)
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Correlation_Sample.png)
 ------------------------------------------------------------------------------------------------------
+
 # Exploratory Data Analysis(EDA)
 ------------------------------------------------------------------------------------------------------
 ![image](https://github.com/billliao628/MIS480I_Final_Project/blob/master/Scatter_Plot.png)
